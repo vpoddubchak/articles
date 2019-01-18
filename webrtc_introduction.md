@@ -40,6 +40,8 @@ Google на этом не остановилась. Ведь для полной
 
 #### Основные компоненты WebRTC
 
+![Architecture](pictures/webrtc-public-diagram-for-website.png)
+
 #### Как это работает
 
 #### Защищенность
@@ -47,3 +49,4 @@ Google на этом не остановилась. Ведь для полной
 
 ### Источники
 [1] https://bloggeek.me/webrtc/
+[2] https://webrtc.org/architecture/
