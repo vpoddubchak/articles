@@ -183,7 +183,7 @@ ICE (Interactive Connectivity Establishment) - это техника котор�
 
 ```candidate:717511287 1 udp 1685921535 5.1.14.254 51246 typ srflx raddr 192.168.1.172 rport 51246```
 
-![ice](pictures/ICE_candidate.jpg)
+![ice](pictures/ICE_cadidate.png)
 
 Он состоит из:
  - *Уникального ID* - он уникальный для пары кандидатов для RTP и RTCP
